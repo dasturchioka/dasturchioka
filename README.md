@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="banner" />
+<img src="./banner_new.jpg" alt="banner" />
 
 <hr />
 
