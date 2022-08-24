@@ -37,7 +37,7 @@ You can visit my personal <a href="https://dasturchioka.uz" target="_blank">webs
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<hr />
+<h1></h1>
 
 ### Github Stats ⭐
 
@@ -45,8 +45,10 @@ You can visit my personal <a href="https://dasturchioka.uz" target="_blank">webs
 
 ![Sardor's Profile views](https://komarev.com/ghpvc/?username=dasturchioka&color=lightgrey)
 
+<h1></h1>
+
 ### You can contact with me:
 
-- **Twitter:** [@alkamroniy](https://twitter.com/alkamroniy)
-- **Telegram:** [@alkamroniy](https://t.me/alkamroniy)
-- **Youtube:** [@alkamroniy](https://www.youtube.com/channel/UCnTRQtjwCQrbZGvZl4blCfg)
+- **Twitter:** [@dasturchioka](https://twitter.com/dasturchioka)
+- **Telegram:** [@dasturchioka](https://t.me/okashettalar_bot)
+- **Youtube:** [@dasturchioka](https://www.youtube.com/c/DasturchiOka)
