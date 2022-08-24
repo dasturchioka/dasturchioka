@@ -8,4 +8,4 @@ _Through programming, our work, our daily life problems, everything becomes easi
 
 👋🏻 Hi there! I am Sardor Aminov. Many people know me as <b>"dasturchioka"</b>. I am fond of developing web applications that are useful to people. My interest in programming started in 2019. And now I am a fullstack web developer. I am a child who is lazy but does not stop moving and growing! 💪🏻
 
-You can visit my personal <a href="https://dasturchioka.uz" target="_blank">website.</a>
+You can visit my personal <a href="https://dasturchioka.uz" target="_blank">website</a>.
