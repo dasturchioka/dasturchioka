@@ -10,6 +10,8 @@ _Through programming, our work, our daily life problems, everything becomes easi
 
 You can visit my personal <a href="https://dasturchioka.uz" target="_blank">website</a>.
 
+<hr />
+
 ### The technologies I am currently using 👇🏻
 
 #### Lovely language
@@ -34,6 +36,8 @@ You can visit my personal <a href="https://dasturchioka.uz" target="_blank">webs
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<hr />
 
 ### Github Stats
 
