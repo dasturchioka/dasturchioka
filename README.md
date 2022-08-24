@@ -15,7 +15,7 @@ You can visit my personal <a href="https://dasturchioka.uz" target="_blank">webs
 #### Lovely language
 ![JavaScipt](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### For making beautiful user interfaces
+#### For making attractive user interfaces
 ![VueJS](https://img.shields.io/badge/vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-41b883?style=for-the-badge&logo=nuxt.js&logoColor=white)
