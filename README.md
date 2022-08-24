@@ -42,3 +42,4 @@ You can visit my personal <a href="https://dasturchioka.uz" target="_blank">webs
 ### Github Stats ⭐
 
 ![Dale's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=dasturchioka&stroke=ffffff&background=0E1217&ring=8B959E&fire=ffffff&currStreakNum=ffffff&currStreakLabel=fff&sideNums=ffffff&sideLabels=8B959E&dates=ffffff)
+![Sardor's Profile views](https://komarev.com/ghpvc/?username=dasturchioka&color=lightgrey)
