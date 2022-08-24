@@ -47,7 +47,7 @@ You can visit my personal <a href="https://dasturchioka.uz" target="_blank">webs
 
 <h1></h1>
 
-### You can contact with me:
+### You can find me at these addresses:
 
 - **Twitter:** [@dasturchioka](https://twitter.com/dasturchioka)
 - **Telegram:** [@dasturchioka](https://t.me/okashettalar_bot)
