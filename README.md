@@ -10,7 +10,7 @@ _Through programming, our work, our daily life problems, everything becomes easi
 
 You can visit my personal <a href="https://dasturchioka.uz" target="_blank">website</a>.
 
-<hr />
+<h1></h1>
 
 ### The technologies I am currently using 👇🏻
 
