@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="banner" />
+<img src="./new-banner.jpg" alt="banner" />
 
 # What are you looking for, my buddy? 👀
 
