@@ -1,27 +1,15 @@
 <img src="./new-banner.jpg" alt="banner" />
 
-# What are you looking for, my buddy? 👀
+# Sardor Aminov, Web Engineer, Mentor, Minimalist. 
 
-_Through programming, our work, our daily life problems, everything becomes easier. Programmers are the angels of our time. They are truly unique people, we should appreciate them._
+Web Engineer from Uzbekistan. Born in 2006, Engineer since 2020. 
 
-<br>
+![JavaScipt](https://badges.aleen42.com/src/javascript.svg)
+![Typescript](https://badges.aleen42.com/src/typescript.svg)
 
-👋🏻 Hi there! I am Sardor Aminov. Many people know me as <b>"dasturchioka"</b>. I am fond of developing web applications that are useful to people. My interest in programming started in 2019. And now I am a fullstack web developer. I am a lazy guy, but do not stop moving and growing! 💪🏻
-
-You can visit my personal <a href="https://dasturchioka.uz" target="_blank">website</a>.
-
-<h1></h1>
-
-### The technologies I am currently using 👇🏻
-
-#### Lovely language:
-![JavaScipt](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### For making attractive user interfaces:
 ![VueJS](https://img.shields.io/badge/vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-41b883?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
+
 
 #### Also for building powerful servers:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
