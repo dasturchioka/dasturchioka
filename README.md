@@ -13,11 +13,6 @@ Web Engineer from Uzbekistan. Born in 2006, Engineer since 2020.
 
 ![NodeJS](https://badges.aleen42.com/src/node.svg)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
 ![Sardor's Profile views](https://komarev.com/ghpvc/?username=dasturchioka&color=lightgrey)
 <h1></h1>
 
