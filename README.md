@@ -14,6 +14,7 @@ Web Engineer from Uzbekistan. Born in 2006, Engineer since 2020.
 ![NodeJS](https://badges.aleen42.com/src/node.svg)
 
 Learning very slowly:
+
 ![Python](https://badges.aleen42.com/src/python.svg)
 
 ![Sardor's Profile views](https://komarev.com/ghpvc/?username=dasturchioka&color=lightgrey)
