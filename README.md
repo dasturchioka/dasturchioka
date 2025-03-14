@@ -21,5 +21,5 @@ Learning very slowly:
 <h1></h1>
 
 - **Twitter:** [@dasturchioka](https://twitter.com/dasturchioka)
-- **Telegram:** [@dasturchioka](https://t.me/okashettalar_bot)
+- **Telegram:** [@dasturchioka](https://t.me/dasturchioka)
 - **Youtube:** [@dasturchioka](https://www.youtube.com/c/DasturchiOka)
